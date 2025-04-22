@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">I'm a senior backend developer specializing in Python and Django, with experience in FastAPI, SQLAlchemy, and Alembic. I work with data using Pandas and MongoDB, and I have a strong interest in AI teams that focus on innovation and new technologies.<br><br>Also, I'm also a sound designer and music producer and I enjoy combining both worlds developing plugins and modules for VCV Rack.</p>
+<p align="left">I'm a senior backend developer specializing in Python ecosystem, with experience in Django, FastAPI, Serverless, AWS, SQLAlchemy, Alembic and Pycantic. I work with data using Pandas, Keras, Matplotlib, ScikitLearn and I have a strong interest in AI teams that focus on innovation and new technologies.<br><br>Also, I'm also a sound designer and music producer and I enjoy combining both worlds developing plugins and modules for VCV Rack.</p>
 
 ###
 
