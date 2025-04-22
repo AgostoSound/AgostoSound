@@ -37,8 +37,6 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/><br>Bash
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
     </td>
@@ -48,6 +46,8 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br>PostgreSQL
     </td>
@@ -57,8 +57,6 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br>NumPy
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>Pandas
     </td>
@@ -97,8 +95,12 @@
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/25452821?s=200&v=4" width="40"/><br>VCV Rack
     </td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
+
 
 
 
