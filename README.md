@@ -64,6 +64,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40"/><br>Pytest
     </td>
     <td align="center">
+      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40"/><br>Postman
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker
     </td>
     <td align="center">
@@ -72,11 +75,11 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" width="40"/><br>SSH
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/><br>PyCharm
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>VSCode
     </td>
@@ -95,7 +98,6 @@
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/25452821?s=200&v=4" width="40"/><br>VCV Rack
     </td>
-    <td></td>
     <td></td>
     <td></td>
   </tr>
